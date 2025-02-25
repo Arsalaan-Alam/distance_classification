@@ -1,5 +1,6 @@
 name: Run Tests
 on: [push]
+
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -11,6 +12,6 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: |
-          pip install numpy pandas scikit-learn
+          pip install numpy matplotlib scikit-learn scipy opencv-python
       - name: Run test script
         run: python test_script.py
