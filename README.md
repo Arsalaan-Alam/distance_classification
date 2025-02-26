@@ -82,5 +82,5 @@ This project performs:
 
 ## Contributions  
 
-This is originially supposed to be my submission for machine-learning class at my university but feel free to fork the repository and contribute by submitting pull requests. 
+This was originially supposed to be my submission for machine-learning class at my university but feel free to fork the repository and contribute by submitting pull requests. 
 
