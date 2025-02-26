@@ -45,6 +45,32 @@ Below are the generated plots from the classification and clustering process:
 
 ![Plot 4](https://cdn.discordapp.com/attachments/837925621099266089/1344359633824907337/image.png?ex=67c09ff9&is=67bf4e79&hm=8902ed989d548e6b8245f137235904ce7d5967a6ee23b6d1dda787f497b04599&)  
 
+## WandB logging
+
+Below are the photos of metrics being logged on WandB:
+
+![Log 1](https://cdn.discordapp.com/attachments/837925621099266089/1344365372828287046/image.png?ex=67c0a551&is=67bf53d1&hm=994fa525d721fad421f6e6b685e8b61ba2b118ec8e05f4f57b93329321406d85&)  
+
+![Log 2](https://media.discordapp.net/attachments/837925621099266089/1344365440478089227/image.png?ex=67c0a562&is=67bf53e2&hm=bdd554c4b1f554881f2f50a8b76ca0f9134640e2d2adca8c158fde435ec1858b&=&format=webp&quality=lossless&width=1210&height=557)  
+
+## Report
+
+#### 1. What are the common distance metrics used in distance-based classification algorithms?  
+Common distance metrics include Euclidean, Manhattan, Chebyshev, and Minkowski distances. Mahalanobis accounts for correlations, Cosine measures vector orientation, and Hamming detects differences in binary data. Each metric is used based on the data type and classification needs.  
+
+#### 2. What are some real-world applications of distance-based classification algorithms?  
+Applications include face recognition, spam filtering, customer behavior analysis, fraud detection, speech processing, medical diagnostics, self-driving cars, recommendation systems, document classification, and credit scoring. These algorithms use distance metrics to identify patterns and classify data efficiently.  
+
+#### 3. Explain various distance metrics.  
+Euclidean measures straight-line distance, Manhattan calculates grid-based paths, Chebyshev finds maximum coordinate differences, and Minkowski generalizes metrics. Mahalanobis considers data correlations, Cosine evaluates vector angles in text analysis, and Hamming counts binary differences for error detection. Each serves specific classification tasks based on dataset characteristics.  
+
+#### 4. What is the role of cross-validation in model performance?  
+Cross-validation evaluates model performance by splitting data into subsets, preventing overfitting and aiding model selection. Methods include k-fold cross-validation, leave-one-out cross-validation (LOOCV), and stratified k-fold cross-validation, ensuring class balance and reliable performance estimation.  
+
+#### 5. Explain variance and bias in terms of KNN.  
+Bias increases with high k, causing underfitting, while variance rises with low k, leading to overfitting. The bias-variance tradeoff is crucial—small k results in high variance, large k in high bias. Choosing the right k balances both, ensuring better model generalization and performance.
+
+
 ## Project Overview  
 
 This project performs:  
