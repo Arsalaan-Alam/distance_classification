@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-14.4-arm64-arm-64bit",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-02-26T16:59:28.314473Z",
+  "program":  "/Users/arsalaan/Desktop/projects/distance_classification/lab.ipynb",
+  "codePath":  "lab.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Arsalaan-Alam/distance_classification.git",
+    "commit":  "689d7e42bf9d3de992d57e863085ecf0bc10fe34"
+  },
+  "email":  "arsalaanalamcollege@gmail.com",
+  "root":  "/Users/arsalaan/Desktop/projects/distance_classification",
+  "host":  "Arsalaans-MacBook-Pro.local",
+  "executable":  "/Users/arsalaan/Desktop/projects/distance_classification/venv/bin/python",
+  "codePathLocal":  "lab.ipynb",
+  "cpu_count":  11,
+  "cpu_count_logical":  11,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "251558338560"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "251558338560"
+    }
+  },
+  "memory":  {
+    "total":  "19327352832"
+  },
+  "cpu":  {
+    "count":  11,
+    "countLogical":  11
+  },
+  "apple":  {
+    "name":  "Apple M3 Pro",
+    "ecpuCores":  6,
+    "pcpuCores":  5,
+    "gpuCores":  14,
+    "memoryGb":  18,
+    "swapTotalBytes":  "16106127360",
+    "ramTotalBytes":  "19327352832"
+  }
+}
